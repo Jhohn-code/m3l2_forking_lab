@@ -1,5 +1,5 @@
-John A
+John Afolami
 
-Nigeria
+Lagos, Nigeria
 
 Version Control
